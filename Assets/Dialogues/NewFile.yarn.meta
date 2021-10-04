@@ -1,0 +1,34 @@
+fileFormatVersion: 2
+guid: 2279fe7f957cead4483fdd82b938d1e2
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 94073015eacc34c1d8fc6786e43d60ca, type: 3}
+  baseLanguageID: 
+  stringIDs:
+  - NewFile-Bartender-0
+  - NewFile-Bartender-1
+  - NewFile-Bartender-2
+  - NewFile-Bartender-3
+  - NewFile-Bartender-4
+  - NewFile-Bartender-5
+  - NewFile-Bartender-6
+  - NewFile-Bartender-7
+  - NewFile-Bartender-8
+  - NewFile-Bartender-9
+  - NewFile-Bartender-10
+  - NewFile-Bartender-11
+  - NewFile-Bartender-12
+  - NewFile-Bartender-13
+  - NewFile-Bartender-14
+  - NewFile-Bartender-15
+  - NewFile-Bartender.Win-16
+  compilationStatus: 1
+  isSuccesfullyCompiled: 1
+  compilationErrorMessage: 
+  baseLanguage: {instanceID: 0}
+  localizations: []

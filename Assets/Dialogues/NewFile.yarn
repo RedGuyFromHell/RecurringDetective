@@ -1,0 +1,35 @@
+title: Bartender
+tags: 
+colorID: 0
+position: 371,-8
+---
+
+Detective: asdadsadadas!
+
+<<if visited("Bartender") is false>>
+    Detective: Good evening, gentlemen!
+    Bartender: Good evening detective! 
+	Bartender: You're not a familiar face. New around here?
+    Detective: Just got here. It's been a while since I last was on a case.
+    Bartender: What can I get you?
+    Detective: Scotch please. Make it double.
+    Bartender: Would you like some ice as well?
+    -> Yes
+        Bartender: Coming right up!
+    -> No
+        Bartender: Ordering scotch without ice? Now that's a crime you should be investigating, mister detective.
+    *you get a glass of scotch with ice*
+    Bartender: So what brings you here into our little town?
+    Detective: Well, it has to do with a fella that slaughtered his own wife. Her body was found in the dumpster in multiple pieces.
+    Bartender: I think I've seen this on the news a few days ago. Good luck finding him, I think he made a run for it by now.
+    Detective: You seem to be pretty informed, do you mind if I ask you some questions?
+    Bartender: Go ahead, I'll answer whatever I can.
+<<endif>>
+===
+title: Bartender.Win
+tags: 
+colorID: 0
+position: 711,-228
+---
+*if you choose drink as first option you live*
+===
